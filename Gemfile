@@ -3,11 +3,11 @@
 source "https://rubygems.org"
 
 # Jekyll
-gem "jekyll", "~> 3.8"
+gem "jekyll", "~> 3.9", ">= 3.9.1"
 gem "jekyll-paginate", "~> 1.1"
 gem "jekyll-sitemap", "~> 1.3"
-gem "jekyll-feed", "~> 0.12.1"
-gem "jekyll-seo-tag", "~> 2.6"
+gem "jekyll-feed", "~> 0.13.0"
+gem "jekyll-seo-tag", "~> 2.7", ">= 2.7.0"
 gem "kramdown-parser-gfm"
 
 # Ruby make
